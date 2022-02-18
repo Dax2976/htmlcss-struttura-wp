@@ -3,3 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+body{
+    padding:1rem;
+
+}
+
+.site_header,
+.site_main,
+.site_footer{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.site_header{
+    background-color: pink;
+    height: 300px;
+    margin-bottom: 1%;
+}
